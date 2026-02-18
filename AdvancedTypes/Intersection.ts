@@ -36,7 +36,7 @@ let file: WritableFile = {
     write(): void {
         console.log("Writing to file");
     },
-    permission: "read" //
+    permission: "read" // here permission which is propertty of Status and Writable inly last one will be used
 }
 
 

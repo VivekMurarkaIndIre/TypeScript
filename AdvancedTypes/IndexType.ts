@@ -28,3 +28,5 @@ data2.age;
 data2.isStudent;
 
 data2.email; // this will throw an error because the property is not defined
+
+
